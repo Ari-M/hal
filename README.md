@@ -10,9 +10,10 @@ He says **'My mind is going...'** if you address him without actually saying any
 
 He answers **'That is unimportant to the mission, Dave.'** to anything else.
 
-You have a test suite with tests that you need to make pass. They are all disabled except the first one right now. To enable a test, remove the x from in from of the it() function. Enable one test at a time and make it pass before enabling the next. This is how Test Driven Development (TDD) works.
-
 ## Instructions
+
+You have a test suite with tests that you need to make pass. They are all disabled except the first one right now. To enable a test, remove the x from in from of the it() function. Enable one test at a time and make it pass before enabling the next. **To make a test pass, you must write the functionality to make Hal respond in the correct way.** This is how Test Driven Development (TDD) works.
+
 1. Fork and clone this repo.
 1. Run `sudo npm install -g mocha` to globally install mocha.
 1. Run `npm install` to install the dependencies.
