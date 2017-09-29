@@ -1,6 +1,6 @@
-### Hal
+# Hal
 
-# Hal is an AI from the 1980s. In conversation, his responses are very limited.
+### Hal is an AI from the 1980s. In conversation, his responses are very limited.
 
 Hal answers **'Affirmative, Dave.'** if you ask him a question.
 
